@@ -1,0 +1,26 @@
+# Site settings
+title: Jon Harlem | Product Manager
+email: hello@jonharlem.com
+url: https://www.jonharlem.com
+description: "Product | Design | Health"
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#ffffff'
+  links: '#219ab3'
+
+# Footer settings
+footer: Jon Harlem
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/jonharlem
+  - title: github
+    url: https://github.com/jonharlem
+  - title: twitter
+    url: https://twitter.com/jonharlem
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
